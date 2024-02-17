@@ -1,0 +1,28 @@
+* {
+  font-size: 30px;
+}
+
+.parent {
+  background-color: aqua;
+  padding: 0.5rem;
+  position: relative;
+}
+
+.child {
+  height: 2rem;
+}
+
+.child-one {
+  background-color: green;
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+
+.child-two {
+  background-color: red;
+}
+
+.child-three {
+  background-color: pink;
+}
